@@ -10,5 +10,5 @@ The communication protocol was based around 2 main principles. One, during the t
 
 Our strengths as a team were our willingness to work well with each other and allow everyone's ideas to have weight. If I were advising a new cohort beginning the group project section of the class, I'd advise that they follow our example in allowing each other uninterrupted speaking time. If anything, I would go further than we did in project communication outside of meetings. I would advise setting up a shared spreadsheet showing what each team member is currently working on that can be updated by each member as they finish tasks.
 
-## Summary f Project:
+## Summary of Project:
 This project used a K-means machine learning algorithm to categorize a dataset of board games. The machine learning model separated the games into categories that showed clear statistical divisions from one another. During the iterative process of building the model, a hyopthesis about three of the game's weight scores was generated. When the model was run for the final time without weight as an input, the hypothesis was confirmed.
